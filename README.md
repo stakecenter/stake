@@ -2,4 +2,3 @@ stake
 =====
 test
 test
-frsd
